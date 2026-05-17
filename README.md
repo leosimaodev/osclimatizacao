@@ -39,6 +39,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ### Passo a Passo
 
-1. **Clone o repositório:**
+1. 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/leosimaodev?tab=repositories](https://github.com/leosimaodev?tab=repositories)
+   git clone [https://github.com/leosimaodev/osclimatizacao.git](https://github.com/leosimaodev/osclimatizacao.git)
